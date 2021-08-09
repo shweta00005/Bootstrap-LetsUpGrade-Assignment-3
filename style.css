@@ -1,0 +1,73 @@
+.navigation{
+    height: 70px !important
+}
+.banner{
+    height: 750px;
+    background-color: grey;
+    background-image: url(https://www.state.gov/wp-content/uploads/2018/11/Russia-2499x1406.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner_content{
+    height:300px;
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    padding: 30px;
+}
+.banner_title{
+    font-size: 40px;
+}
+/*css for destinations */
+ 
+.title{
+    text-align: center;
+}
+.destinations{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.my-card{
+    width: 380px !important
+}
+
+/*css for packages */
+
+.packages{
+    background-color:rgb(35, 133, 212) ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.my_card{
+    width: 370px !important
+}
+
+/*css for banner ad*/
+
+.banner-ad{
+    height: 400px;
+    background-image: url(https://images.pexels.com/photos/415980/pexels-photo-415980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-color: blue;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.ad-content{
+    height: 200px;
+    background-color:rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 30px;
+    display: flex;
+
+}
+.ad_title{
+    color: white;
+    margin-bottom: 30px;
+}
+    
+    
